@@ -5,7 +5,7 @@ using UnityEngine;
 public class PanelObjet : MonoBehaviour
 {
     public GameObject PanelOn, objectOff;
-    public GameManager gameManager;
+   
     // Start is called before the first frame update
     void Start()
     {
@@ -22,7 +22,7 @@ public class PanelObjet : MonoBehaviour
     public void OnClickOn()
     {
         PanelOn.SetActive(true);
-        gameManager.counter++;
+        
         objectOff.SetActive(false);
     }
     

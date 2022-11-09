@@ -142,6 +142,9 @@
  <Reference Include="Unity.2D.SpriteShape.Editor">
  <HintPath>Z:/GIT New/ProjectDHITW/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="UnityWakatime">
+ <HintPath>Z:/GIT New/ProjectDHITW/Library/ScriptAssemblies/UnityWakatime.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>Z:/GIT New/ProjectDHITW/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -207,9 +210,6 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>Z:/GIT New/ProjectDHITW/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="UnityWakatime">
- <HintPath>Z:/GIT New/ProjectDHITW/Library/ScriptAssemblies/UnityWakatime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>E:/Unity/2019.4.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

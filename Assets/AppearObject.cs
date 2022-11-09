@@ -8,7 +8,7 @@ public class AppearObject : MonoBehaviour
     public int counterNeeded;
     public GameManager gameManager;
 
-    public GameObject gameObject, Panelpertanyaan;
+    public GameObject gameObject, Panelpertanyaan, dissapearObject;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,5 +28,6 @@ public class AppearObject : MonoBehaviour
     public void Pertanyaan()
     {
         Panelpertanyaan.SetActive(true);
+        dissapearObject.SetActive(false);
     }
 }
