@@ -5,10 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class Main : MonoBehaviour
 {
+    /*public string sceneName;*/
     static public Main Instance;
 
     public int switchCount;
-    public GameObject winText;
+    public GameObject winPanel;
     private int onCount = 0;
 
     private void Awake()
@@ -19,13 +20,14 @@ public class Main : MonoBehaviour
         onCount = onCount + points;
         if (onCount == switchCount)
         {
-            SceneManager.LoadScene(0);
+            /*SceneManager.LoadScene(sceneName);*/
+            winPanel.SetActive(true);
         }
     }
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.R)) {
+        /*if (Input.GetKeyDown(KeyCode.R)) {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        }
+        }*/
     }
 }

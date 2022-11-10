@@ -14,10 +14,7 @@ public class PanelObjet : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
     
     public void OnClickOn()
     {
@@ -25,5 +22,14 @@ public class PanelObjet : MonoBehaviour
         
         objectOff.SetActive(false);
     }
+    
+    public void OffClickOff()
+    {
+        PanelOn.SetActive(false);
+        
+        objectOff.SetActive(true);
+    }
+
+
     
 }
