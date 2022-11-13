@@ -16,13 +16,12 @@ PlayerSettings:
   productName: Discover Hazards In The Workplace
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.066037714, g: 0.066037714, b: 0.066037714,
-    a: 1}
+  m_SplashScreenBackgroundColor: {r: 0.9433962, g: 0.9433962, b: 0.9433962, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 0
-  m_SplashScreenLogoStyle: 1
+  m_SplashScreenLogoStyle: 0
   m_SplashScreenDrawMode: 0
   m_SplashScreenBackgroundAnimationZoom: 1
   m_SplashScreenLogoAnimationZoom: 1
@@ -41,7 +40,7 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos:
-  - logo: {fileID: 21300000, guid: d4254ebd843dd874c905955fd79ff11c, type: 3}
+  - logo: {fileID: 21300000, guid: 9d82b3cb2a54d2642a87bf8988bc4379, type: 3}
     duration: 3
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}

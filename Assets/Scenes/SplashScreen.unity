@@ -273,7 +273,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   VideoPlayer: {fileID: 336480736}
-  scene: MainMenu
+  scene: Instruction
+  FrameRate: 60
+  Fframerate: 60
 --- !u!328 &336480736
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -282,7 +284,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 336480733}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 0d2d4b7f289d6e041a008c41ef2b69d7, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 5e32190266ce33747b84f7aa0510ff66, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
