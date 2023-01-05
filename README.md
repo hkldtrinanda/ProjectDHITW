@@ -1,2 +1,2 @@
-Identified Hazard and Risk for Vocational Student is an interactive PC-based game that describes the process of hazards and risks in the graphic print work area. Players will be presented with interactive games that are not only a medium of learning but also as a medium to see the extent of understanding of the material provided by the lecturer in class.
- 
+This project was developed by lecturers from the Jakarta Creative Media State Polytechnic (Politeknik Negeri Media Kreatif Jakarta) with the aim of equipping students from the Faculty of Graphic Engineering (Teknik Grafika) with the knowledge of any hazards that exist in the workplace, especially in printing laboratories, warehouses, and other workplaces. Cemong Studio got the opportunity to do a collab work with the other Polimedia gamedev representative to develop this game!
+
